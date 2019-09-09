@@ -7,7 +7,7 @@
  */
 import java.util.Scanner;
 
-public class Main {
+public class CaesarChiffer {
 
     // Alla java-program börjar alltid här i main-metoden.
     public static void main(String[] args) {
